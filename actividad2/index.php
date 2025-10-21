@@ -1,0 +1,1 @@
+<?php echo '<h1>Bienvenido a Plataforma Orgánicos</h1>'; ?>
